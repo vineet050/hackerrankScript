@@ -1,0 +1,1 @@
+node moderator.js creden.json "username"
